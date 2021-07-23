@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 21, 2021 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Completely changed CSS on existing To Do App
 
@@ -11,4 +11,12 @@
 
 
 
+### Day 1: July 22, 2021 
+
+
+**Today's Progress**: Corrected positioning for top and bottom captions in Meme Generator
+
+**Thoughts:** I came back to this project after about 3 months and messed around with the CSS positioning of the top and bottom caption divs and I finally got the positioning sorted out to where the captions are showing up where they should be when the "Generate Meme" button is clicked.
+
+**Link to work:**  https://github.com/makeitbreaux/Meme-Generator
 
